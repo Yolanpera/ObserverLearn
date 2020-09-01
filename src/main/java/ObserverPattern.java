@@ -8,5 +8,6 @@ public class ObserverPattern {
 
         System.out.println("change first");
         subject.setState(2);
+        System.out.println("xx");
     }
 }
